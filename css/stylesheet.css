@@ -1,0 +1,28 @@
+body {
+min-height: 900px;
+padding-top: 20px;
+background-image: url('../img/white_brick_wall.png') !important;
+background-repeat: repeat-all !important;
+}
+p {
+font-family:Verdana;
+}
+h1 {
+font-family:Times;
+}
+li {
+font-family:Verdana, Times;
+}
+.jumbotron {
+background-color:#CCD9FF;
+background: rgba(204, 217, 255, 0.5);
+}
+.navbar-default {
+background-color:#8FABFF;
+}
+.nav .active a {
+background-color:#4271FF !important;
+}
+a{
+color:black !important;
+}
